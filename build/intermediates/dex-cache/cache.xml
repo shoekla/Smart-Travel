@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_02c87bd0714527cda18692c65fddc3e07764f0e1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_078bee143e15eb7bafd684dbc93344aa3f5c8858/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_b8f32b2ee2ffcb771dd2650e2d4c54d9053f8dcc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_e0434a6ec3e2c299708696ba048e33cfa6cc1e2f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_3345701cc2877359e38fe23d15a14f0bbf2213bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c6395b5745bb53c1ddfe751b869b63e9cf8cf7ea">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf5d6e49920f98de781f1bb271650b602d600c65/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_28ff98f071e343b30a29cfc3ce531edda7c9955c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_b858b57288de0e8b5252f3b49081cea84327857b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_9cd6018576daa5ca74b2840255efcc74977dac82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abirshukla/SmartTravel/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cc3db530d47abe7a0c41d16f22ce4973fcbcb444">
+        <dex dex="/Users/abirshukla/SmartTravel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9bec6a554996907a460ad5c2f9b4ed36908c8ffb/classes.dex" />
+    </item>
+
+</items>
