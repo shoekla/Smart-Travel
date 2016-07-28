@@ -21,7 +21,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Sett" />
-        <activity android:name=".Food"></activity>
+        <activity android:name=".Food" />
+        <activity android:name=".Hub"></activity>
     </application>
 
 </manifest>

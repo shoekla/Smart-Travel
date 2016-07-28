@@ -27,6 +27,13 @@ public class MainActivity extends AppCompatActivity {
                 (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
         mNotificationManager.cancel("RESUME",1234);
 
+
+        Intent hubIntent = new Intent(MainActivity.this, Hub.class);
+
+        PendingIntent pIntentH = PendingIntent.getActivity(MainActivity.this, 0, hubIntent, 0);
+
+
+
         Intent foodIntent = new Intent(MainActivity.this, Food.class);
 
         PendingIntent pIntentF = PendingIntent.getActivity(MainActivity.this, 0, foodIntent, 0);
@@ -44,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
                 .setSmallIcon(R.drawable.icon)
 
-                .setContentIntent(pIntentF)
+                .setContentIntent(pIntentH)
 
                 .addAction(R.drawable.gas, "Gas", pIntentG)
 
