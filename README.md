@@ -13,3 +13,6 @@ Android Application that allows users to optimize their road trip (both short an
 <li>Choose on Instance Local (Returns List of all Local Restaurants in a 5 Mile Radius)</li>
 <li> Voice Command (Asks for user speech to tell it where to go e.g. if user says "McDonald's" google maps will route user to nearest McDonald's</li>
 </ul>
+
+#Update for Smart Travel
+I am currently updating the android application to work for android auto so users are not distracted by driving while on the app. Also I am making a few front end changes including background images, image buttons instead of regular buttons and landscape variations for different xml layouts.
