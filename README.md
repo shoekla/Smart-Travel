@@ -1,5 +1,5 @@
 # Smart-Travel
-Android Application that allows users to optimize their road trip (both short and long) by letting them pause their trip and get them to their choice of gas station, and food restaurant.  This is done through multiple option to make the process as intuitive and easy as possible. Since Google Maps does not allow the embedding of turn by turn navigation, this is done using multi-action android notifications so user can access "Smart Travel" without leaving Google Maps.
+Android Application that allows users to optimize their road trip (both short and long) by letting them pause their trip and get them to their choice of gas station, and food restaurant.  This is done through multiple options to make the process as intuitive and easy as possible. Since Google Maps does not allow the embedding of turn by turn navigation, this is done using multi-action android notifications so user can access "Smart Travel" without leaving Google Maps.
 <br/>
 <h3>Gas Options</h3>
 <ul><li> Distance (Finds Closest Gas Station to User Location)</li>
