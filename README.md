@@ -20,3 +20,5 @@ I am currently updating the android application to work for android auto so user
 #Smart Travel 2.0
 Smart Travel now works for android mobile and android auto (an intuitive layout for both). Smart Travel finds gas stations, restaurants, and other place marks (via voice commands) using android notifications allowing the app to be utilized with android wear (tested).
 
+#Application Home Screen
+<img src="http://abirshukla.pythonanywhere.com/static/SmartTravel.png"/>
